@@ -1,0 +1,8 @@
+[
+  {
+    "repository": "android_device_motorola_falcon",
+    "target_path": "device/motorola/falcon",
+    "remote": "github",
+    "revision": "cm-12.1"
+  }
+]
