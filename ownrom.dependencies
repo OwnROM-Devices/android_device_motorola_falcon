@@ -1,0 +1,28 @@
+[
+  {
+    "repository": "android_device_motorola_msm8226-common",
+    "target_path": "device/motorola/msm8226-common",
+    "remote": "cm",
+    "revision": "cm-13.0"
+  },
+  {
+    "repository": "akhilnarang/ThugLife_falcon",
+    "target_path": "kernel/motorola/msm8226",
+    "remote": "github",
+    "revision": "master"
+  },
+  {
+    "repository": "proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision": "cm-13.0",
+    "remote": "tm"
+  },
+  {
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "remote": "cm",
+    "revision": "cm-13.0"
+  }
+  
+]
+
